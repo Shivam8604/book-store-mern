@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consecteture adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?ga=GA1.1.1554032457.1728549251&semt=ais_hybrid"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consecteture adipisicing elit.",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?ga=GA1.1.1554032457.1728549251&semt=ais_hybrid"
+    },
+    {
+        "id":2,
+        "name":"Sports Book",
+        "title":"Lorem, ipsum dolor sit amet consecteture adipisicing elit.",
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?ga=GA1.1.1554032457.1728549251&semt=ais_hybrid"
+    },
+    {
+        "id":3,
+        "name":"Music Book",
+        "title":"Lorem, ipsum dolor sit amet consecteture adipisicing elit.",
+        "price":100,
+        "category":"Song",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?ga=GA1.1.1554032457.1728549251&semt=ais_hybrid"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consecteture adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?ga=GA1.1.1554032457.1728549251&semt=ais_hybrid"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consecteture adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?ga=GA1.1.1554032457.1728549251&semt=ais_hybrid"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consecteture adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?ga=GA1.1.1554032457.1728549251&semt=ais_hybrid"
+    },
+    {
+        "id":7,
+        "name":"Stock market Book",
+        "title":"Lorem, ipsum dolor sit amet consecteture adipisicing elit.",
+        "price":250,
+        "category":"Stock Marketing",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?ga=GA1.1.1554032457.1728549251&semt=ais_hybrid"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consecteture adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?ga=GA1.1.1554032457.1728549251&semt=ais_hybrid"
+    },
+    {
+        "id":9,
+        "name":"Gaiming Book",
+        "title":"Lorem, ipsum dolor sit amet consecteture adipisicing elit.",
+        "price":300,
+        "category":"gaming",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?ga=GA1.1.1554032457.1728549251&semt=ais_hybrid"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consecteture adipisicing elit.",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/book-library-with-open-textbook_1150-5920.jpg?ga=GA1.1.1554032457.1728549251&semt=ais_hybrid"
+    }
+]
