@@ -1,5 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React, { useEffect, useState } from 'react'
+import Login from './Login';
 
 const Navbar = () => {
     const navItems = (
@@ -77,7 +78,8 @@ const Navbar = () => {
                         </label>
                     </div>
                     <div>
-                        <a className="text-white px-3 py-2 rounded hover:bg-slate-800 duration-300 cursor-pointer">Login</a>
+                        <a className="text-white px-3 py-2 rounded hover:bg-slate-800 duration-300 cursor-pointer" onClick={()=>document.getElementById("my_modal_3").showModal()}>Login</a>
+                        <Login/>
                     </div>
                 </div>
 

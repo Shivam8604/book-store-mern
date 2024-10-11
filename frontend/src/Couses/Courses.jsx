@@ -6,7 +6,6 @@ import Footer from '../components/Footer';
 import list from '../../public/list.json'
 
 const Courses = () => {
-    console.log(list)
     return (
         <>
             <Navbar />
