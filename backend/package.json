@@ -1,0 +1,30 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "mern-project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivam8604/book-store-mern.git"
+  },
+  "author": "shivam pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivam8604/book-store-mern/issues"
+  },
+  "homepage": "https://github.com/Shivam8604/book-store-mern#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
+}
